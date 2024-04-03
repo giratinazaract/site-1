@@ -1,0 +1,26 @@
+<HTML>
+     <HEAD>
+        <TITLE>pagina 1 </TITLE>
+     </HEAD>
+
+
+     <BODY  bgcolor='#000038'>
+     BOM DIA essa é a página 1  <br><br>
+     <font size = '7' color = '#6600cc'>
+        giratina o primeiro monarca das sombras e rei dos mortos <br>
+     </font>
+     <font size = '6' color = 'blue'> dgarmadon rei dos dragoes monarca da destruiçao <br> </font>
+<br>
+     <font size = '7' color = 'green'> P
+     <font size = '5' color = '#ff3399'> a
+     <font size = '3' color = '#6633ss'> r
+     <font size = '2' color = '#ffcc33'> a
+     <font size = '2' color = 'yellow'> b
+     <font size = '3' color = 'red'> e
+     <font size = '5' color = 'blue'> n
+     <font size = '7' color = 'black'> s
+ 
+
+ </BODY>
+
+</HTML>
